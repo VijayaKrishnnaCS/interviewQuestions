@@ -21,9 +21,9 @@ This is a very open-ended, no wrong answer test to see what you're at in terms o
 
 4: In the function "filterArray()" in the interview.js file, I want you to pass in the arrayList variable as a parameter, and grab the number 5 in the arrray, and remove it, and return the array without the number 5 in it.
 
-5: Create a functio that accepts one parameter as a string, and take that string and reverse its contents.
+5: Create a function that accepts one parameter as a string, and take that string and reverse its contents.
     - For example:
         - I have a string "Hello World", If I pass this string into your function, it should reverse it to look like this. "dlroW olleH".
 
-6: Create a function that accepts one paramater, and create a fibonacci sequence.
+6: Create a function that accepts one parameter, and creates a fibonacci sequence and returns the entire list.
  
