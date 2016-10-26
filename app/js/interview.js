@@ -26,3 +26,7 @@ function question3(name) {
 }
 
 typeof question3();
+
+function getParameterType(param) {
+    return typeof param;
+}
