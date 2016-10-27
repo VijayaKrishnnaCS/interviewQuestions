@@ -13,6 +13,6 @@ input {
     width: 200px;
 }
 
-#full-name {
+input[name="full-name"] {
     text-transform: uppercase;
 }
