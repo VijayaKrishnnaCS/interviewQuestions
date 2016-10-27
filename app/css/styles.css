@@ -11,8 +11,5 @@ input {
     border-radius: 7px;
     height: 35px;
     width: 200px;
-}
-
-#full-name {
     text-transform: uppercase;
 }
