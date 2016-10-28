@@ -25,4 +25,9 @@ function question3(name) {
     return ('Hello, my name is ' + name + '. Would you like to play?')
 }
 
+
+function filterArray(list) {
+
+}
+
 typeof question3();
