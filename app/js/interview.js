@@ -26,3 +26,16 @@ function question3(name) {
 }
 
 typeof question3();
+
+
+function toReverse (string ) {
+	var x = string.lenght;
+	var reversedString = "";
+	while (x > = 0){
+		reversedString=reversedString+string.charAt(x);
+		x--;
+	}
+		return reversedString;		
+}
+
+
