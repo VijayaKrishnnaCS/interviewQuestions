@@ -26,6 +26,7 @@ function question3(name) {
     return ('Hello, my name is ' + name + '. Would you like to play?')
 }
 
+
 function filterArray(list) {
 
 }
@@ -33,19 +34,14 @@ function filterArray(list) {
 typeof question3();
 
 
-function fibonacci(num) {
-  return Array.apply(null, Array(num)).reduce(function(acc, curr, idx) {
-    return idx > 2 ? acc.concat(acc[idx-1] + acc[idx-2]) : acc;
-  }, [0, 1, 1]);
+
+
+function toReverse (string ) {
+	var x = string.lenght;
+	var reversedString = "";
+	while (x > = 0){
+		reversedString=reversedString+string.charAt(x);
+		x--;
+	}
+		return reversedString;		
 }
-
-console.log(fibonacci(10));
-
-function reverse(str) {
-  var output = '';
-  for (var i = str.length - 1; i >= 0; i--)
-    output += str[i];
-  return output;
-};
-
-console.log(reverse('Hello World'));
