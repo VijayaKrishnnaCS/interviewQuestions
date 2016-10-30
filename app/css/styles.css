@@ -5,11 +5,3 @@ h1 {
 label {
     display: block;
 }
-
-input {
-    border: 1px solid #333;
-    border-radius: 7px;
-    height: 35px;
-    width: 200px;
-    text-transform: uppercase;
-}
