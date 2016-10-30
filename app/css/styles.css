@@ -5,4 +5,18 @@ h1 {
 label {
     display: block;
 }
+input {
+    border: 1px solid #333;
+    border-radius: 7px;
+    height: 35px;
+    width: 200px;
+}
 
+input[type=text] {
+	border: 1px solid #333;
+    border-radius: 7px;
+}
+
+#full-name {
+    text-transform: uppercase;
+}
