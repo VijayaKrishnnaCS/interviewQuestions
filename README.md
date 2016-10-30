@@ -19,7 +19,7 @@ This is a very open-ended, no wrong answer test to see what you're at in terms o
 
 3: Create a function that accepts one parameter and returns that parameters 'type'.
 
-4: In the function "filterArray()" in the interview.js file, I want you to pass in the arrayList variable as a parameter, and grab the number 5 in the arrray, and remove it, and return the array without the number 5 in it.
+4: In the function "filterArray()" in the interview.js file, I want you to pass in the list variable as a parameter, and grab the number 5 in the arrray, and remove it, and return the array without the number 5 in it.
 
 5: Create a function that accepts one parameter as a string, and take that string and reverse its contents.
     - For example:
