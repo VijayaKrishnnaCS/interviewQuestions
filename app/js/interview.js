@@ -1,1 +1,13 @@
-var list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+"use strict";
+// Program for returning the type of parameter passed
+function findVarType(param){
+	console.log(typeof param);
+	return typeof param;
+}
+
+// Test cases
+findVarType(1);
+
+findVarType("10");
+
+findVarType("Hello");
